@@ -1,0 +1,22 @@
+
+/*
+p{
+    font-family: 'Dosis', sans-serif;
+}*/
+body{
+    display: flex;
+    justify-content: space-around;
+}
+div{
+    border: 1px solid black;
+    width: 90%;
+    min-width: 150px;
+    max-width: 900px;
+}
+/*
+@media (max-width: 560px){
+    body{
+        display: block;
+        
+    }
+}*/
